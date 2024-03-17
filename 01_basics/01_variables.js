@@ -28,3 +28,9 @@ console.table([]);// use for multiple prinnt statement sepearte with comma
 
 
 
+// some thing more about variables or in brief what are every variables 
+/*
+In JavaScript, you can declare a variable using the let keyword. This creates a block-scoped variable, meaning it's only accessible within the code block where it's declared. You can update the value of a let variable throughout your code, but you cannot re-declare it with the same name within the same block.*/
+
+
+

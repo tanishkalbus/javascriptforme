@@ -45,7 +45,7 @@ console.log(sum)
 // syntax of while loop 
 // intilizaiton 
 // while (condition){action
-//updation}
+//updation (optional)}
 
 
 // next is the do while in which the action will excuted at least one time without looking at the condition and then works exactly same as while loop 
