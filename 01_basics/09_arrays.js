@@ -117,6 +117,7 @@ console.log(fooditems.toString());
 
 
 // this is array file 
+// this is the file of arrays and array methods 
 
 
 
