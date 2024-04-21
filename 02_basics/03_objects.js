@@ -18,7 +18,7 @@ const JsUser = {
     email: "hitesh@google.com",
     isLoggedIn: false,
     lastLoginDays: ["Monday", "Saturday"]
-}
+} 
 
 // some important things regarding objects 
 // js take every key as a string 
