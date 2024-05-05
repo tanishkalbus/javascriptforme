@@ -49,7 +49,6 @@ if (true) {
 function addone(num){
     return num + 1
 }
-
 // from this way we cann access the function before declartion 
 
  addTwo(5)
